@@ -25,6 +25,58 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
+// Define variables for animal sounds
+const moo = "cow";
+const neigh = "horse";
+const baa = "sheep";
+const oink = "pig";
+const cluck = "chicken";
+
+// Define variables for traditional animal names
+const bessie = "cow";
+const dolly = "sheep";
+const babe = "pig";
+const little = "chicken";
+
+// Define variables for traditional animal colors
+const blackAndWhite = "cow";
+const black = "sheep";
+const pink = "pig";
+
+// Define variables for rainbow colors
+const red = "red";
+const orange = "orange";
+const yellow = "yellow";
+const green = "green";
+const blue = "blue";
+const indigo = "indigo";
+const violet = "violet";
+
+// Define variables for rainbow colors using initials
+const r = "red";
+const o = "orange";
+const y = "yellow";
+const g = "green";
+const b = "blue";
+const v = "violet";
+
+// Define variable for Indigo
+const indg = "indigo";
+
+// Define variables for muppet information
+const muppetName = "Miss Piggy";
+const color = "pink";
+const song = "Never Before, Never Again";
+const job = "Cast member of The Muppet Show";
+const partner = "Kermit";
+
+// Define variables for additional muppet information
+const song2 = "Moving Right Along";
+const song4 = "I Hope That Something Better Comes Along";
+const nestedJob = "Host of The Muppet Show";
+const nestedPartner = "Miss Piggy";
+
+
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
